@@ -12,9 +12,137 @@ body h1 {
   margin: 10px;
   padding: 6px; }
 
-#team-members .member img {
-  width: 200px;
-  height: 200px; }
-
 #team-members .member div.name {
   text-align: center; }
+
+#arvinder {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/arvinder_blur.jpg");
+  border-radius: 50%; }
+
+#arvinder:hover {
+  background-image: url("../images/arvinder.jpg");
+  border-radius: 50%; }
+
+#charlyne {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/charlyne_fothergill_blur.jpg");
+  border-radius: 50%; }
+
+#charlyne:hover {
+  background-image: url("../images/charlyne_fothergill.jpg");
+  border-radius: 50%; }
+
+#david {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/davidvandusen_blur.jpg");
+  border-radius: 50%; }
+
+#david:hover {
+  background-image: url("../images/davidvandusen.jpg");
+  border-radius: 50%; }
+
+#don {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/don_burks_blur.jpg");
+  border-radius: 50%; }
+
+#don:hover {
+  background-image: url("../images/don_burks.jpg");
+  border-radius: 50%; }
+
+#jeremy {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/jeremy_shaki_blur.jpg");
+  border-radius: 50%; }
+
+#jeremy:hover {
+  background-image: url("../images/jeremy_shaki.jpg");
+  border-radius: 50%; }
+
+#khurram {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/khurram_virani_blur.jpg");
+  border-radius: 50%; }
+
+#khurram:hover {
+  background-image: url("../images/khurram_virani.jpg");
+  border-radius: 50%; }
+
+#landon {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/landon_blur.jpg");
+  background-size: 100% 100%;
+  border-radius: 50%; }
+
+#landon:hover {
+  background-image: url("../images/landon.jpg");
+  background-size: 100% 100%;
+  border-radius: 50%; }
+
+#michael {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/michael_steele_blur.jpg");
+  border-radius: 50%; }
+
+#michael:hover {
+  background-image: url("../images/michael_steele.jpg");
+  border-radius: 50%; }
+
+#monica {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/monica_blur.jpg");
+  border-radius: 50%; }
+
+#monica:hover {
+  background-image: url("../images/monica.jpg");
+  border-radius: 50%; }
+
+#murat {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/murat_blur.jpg");
+  border-radius: 50%; }
+
+#murat:hover {
+  background-image: url("../images/murat.jpg");
+  border-radius: 50%; }
+
+#rosy {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/rosy_blur.jpg");
+  border-radius: 50%; }
+
+#rosy:hover {
+  background-image: url("../images/rosy.jpg");
+  border-radius: 50%; }
+
+#sherman {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/sherman_blur.jpg");
+  border-radius: 50%; }
+
+#sherman:hover {
+  background-image: url("../images/sherman.jpg");
+  border-radius: 50%; }
+
+#sylvia {
+  width: 190px;
+  height: 190px;
+  background-image: url("../images/sylvia_rayner_blur.jpg");
+  border-radius: 50%; }
+
+#sylvia:hover {
+  background-image: url("../images/sylvia_rayner.jpg");
+  border-radius: 50%; }
